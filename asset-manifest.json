@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.7b395174.js",
+    "main.js": "/portfolio2024/static/js/main.4e025651.js",
     "static/js/453.7f487821.chunk.js": "/portfolio2024/static/js/453.7f487821.chunk.js",
     "static/media/2.png": "/portfolio2024/static/media/2.3203be76f87c4e0d82b0.png",
     "static/media/akagi_credits.mp4": "/portfolio2024/static/media/akagi_credits.7edc736c9ba21339e215.mp4",
@@ -11,7 +11,9 @@
     "static/media/6.png": "/portfolio2024/static/media/6.12a64d8c8daaf5aa4f91.png",
     "static/media/akagi_intro.mp4": "/portfolio2024/static/media/akagi_intro.4d1a8ab41431c2abc157.mp4",
     "static/media/9.png": "/portfolio2024/static/media/9.16755131929d528e7f34.png",
+    "static/media/magazine2.jpg": "/portfolio2024/static/media/magazine2.6c665e23b27c4670ca6e.jpg",
     "static/media/course_logo.mp4": "/portfolio2024/static/media/course_logo.dae637b9300efe2d9c88.mp4",
+    "static/media/magazine.jpg": "/portfolio2024/static/media/magazine.c459846f898fb7e3184f.jpg",
     "static/media/4.png": "/portfolio2024/static/media/4.dd978110ab275e6f7f54.png",
     "static/media/5.png": "/portfolio2024/static/media/5.dd7919b7ea9751d69df1.png",
     "static/media/1.png": "/portfolio2024/static/media/1.a12739faa4d7c3611ab5.png",
@@ -19,11 +21,11 @@
     "static/media/me2024.jpg": "/portfolio2024/static/media/me2024.b5886f92f099d079a7ae.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.7b395174.js.map": "/portfolio2024/static/js/main.7b395174.js.map",
+    "main.4e025651.js.map": "/portfolio2024/static/js/main.4e025651.js.map",
     "453.7f487821.chunk.js.map": "/portfolio2024/static/js/453.7f487821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.7b395174.js"
+    "static/js/main.4e025651.js"
   ]
 }
