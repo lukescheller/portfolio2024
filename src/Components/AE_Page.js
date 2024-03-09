@@ -3,6 +3,11 @@ import Media from "react-media";
 
 import ae from "../images/ae.png";
 
+import a_intro from "../images/videos/akagi_intro.mp4";
+import a_credits from "../images/videos/akagi_credits.mp4";
+import atheneum_intro from "../images/videos/atheneum_intro.mp4";
+import logo from "../images/videos/course_logo.mp4";
+
 const AE_Page = () => {
   //TITLE
   let ae_title = {
@@ -35,7 +40,7 @@ const AE_Page = () => {
     justifyContent: "center",
   };
 
-  let ae_video = { margin: "5px", width: "45%", height: "400px" };
+  let ae_video = { margin: "5px", width: "45%" };
 
   let filler = {
     width: "45%",
@@ -43,7 +48,7 @@ const AE_Page = () => {
   };
 
   //MOBILE
-  let ae_video_mobile = { margin: "5px", width: "100%", height: "300px" };
+  let ae_video_mobile = { margin: "5px", width: "100%" };
 
   let filler_mobile = { margin: "5px", width: "100%" };
 
@@ -59,76 +64,42 @@ const AE_Page = () => {
             //MOBILE
             <div id="ae1">
               <div id="ae1_container">
-                <iframe
-                  style={ae_video_mobile}
-                  src="https://www.youtube.com/embed/uSzxbP6dkSA"
-                  title="akagi credits"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video_mobile}
-                  src="https://www.youtube.com/embed/s5ndRCPBcWQ"
-                  title="akagi intro"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video_mobile}
-                  src="https://www.youtube.com/embed/2IIV9UQtdn8"
-                  title="atheneum intro"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video_mobile}
-                  src="https://www.youtube.com/embed/ot2qEnRaey8"
-                  title="course logo"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
+                <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={a_intro} type="video/mp4" />
+                </video>
+
+                <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={a_credits} type="video/mp4" />
+                </video>
+
+                <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={atheneum_intro} type="video/mp4" />
+                </video>
+
+                <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={logo} type="video/mp4" />
+                </video>
               </div>
             </div>
           ) : (
             //DESKTOP
             <div id="ae1" style={ae1}>
               <div id="ae1_container" style={ae1_container}>
-                <iframe
-                  style={ae_video}
-                  src="https://www.youtube.com/embed/uSzxbP6dkSA"
-                  title="akagi credits"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video}
-                  src="https://www.youtube.com/embed/s5ndRCPBcWQ"
-                  title="akagi intro"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video}
-                  src="https://www.youtube.com/embed/2IIV9UQtdn8"
-                  title="atheneum intro"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-                <iframe
-                  style={ae_video}
-                  src="https://www.youtube.com/embed/ot2qEnRaey8"
-                  title="course logo"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={a_intro} type="video/mp4" />
+                </video>
+
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={a_credits} type="video/mp4" />
+                </video>
+
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={atheneum_intro} type="video/mp4" />
+                </video>
+
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={logo} type="video/mp4" />
+                </video>
                 <div id="filler" style={filler}></div>
               </div>
             </div>
