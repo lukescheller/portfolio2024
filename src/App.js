@@ -7,6 +7,7 @@ import "./App.css";
 import AE_Page from "./Components/AE_Page";
 import PR_Page from "./Components/PR_Page";
 import PS_Page from "./Components/PS_Page";
+import ID_Page from "./Components/ID_Page";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route exact path="/aftereffects" element={<AE_Page />} />
           <Route exact path="/premierepro" element={<PR_Page />} />
           <Route exact path="/photoshop" element={<PS_Page />} />
+          <Route exact path="/indesign" element={<ID_Page />} />
         </Routes>
       </div>
     </Router>
