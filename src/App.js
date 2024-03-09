@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import AE_Page from "./Components/AE_Page";
 import PR_Page from "./Components/PR_Page";
+import PS_Page from "./Components/PS_Page";
 
 function App() {
   return (
