@@ -23,9 +23,9 @@ const PS_Page = () => {
 
   return (
     <div>
-      <div id="ae_title" style={ps_title}>
-        <img src={ps} style={pr_title_img} />
-        <h3 style={ps_title_h3}>Premiere Pro</h3>
+      <div style={ps_title}>
+        <img src={ps} style={ps_title_img} />
+        <h3 style={ps_title_h3}>Photoshop</h3>
       </div>
       <Media query="(max-width:767px)">
         {(matches) => {
