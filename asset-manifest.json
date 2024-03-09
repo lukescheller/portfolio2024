@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.4e025651.js",
+    "main.js": "/portfolio2024/static/js/main.1c113b5e.js",
     "static/js/453.7f487821.chunk.js": "/portfolio2024/static/js/453.7f487821.chunk.js",
     "static/media/2.png": "/portfolio2024/static/media/2.3203be76f87c4e0d82b0.png",
     "static/media/akagi_credits.mp4": "/portfolio2024/static/media/akagi_credits.7edc736c9ba21339e215.mp4",
@@ -14,18 +14,23 @@
     "static/media/magazine2.jpg": "/portfolio2024/static/media/magazine2.6c665e23b27c4670ca6e.jpg",
     "static/media/course_logo.mp4": "/portfolio2024/static/media/course_logo.dae637b9300efe2d9c88.mp4",
     "static/media/magazine.jpg": "/portfolio2024/static/media/magazine.c459846f898fb7e3184f.jpg",
+    "static/media/logo.png": "/portfolio2024/static/media/logo.c21bff24f6d0f246d1a9.png",
     "static/media/4.png": "/portfolio2024/static/media/4.dd978110ab275e6f7f54.png",
+    "static/media/tripple kings IG store opening promotion color 2.png": "/portfolio2024/static/media/tripple kings IG store opening promotion color 2.0c480aa8383e9c5a3027.png",
     "static/media/5.png": "/portfolio2024/static/media/5.dd7919b7ea9751d69df1.png",
     "static/media/1.png": "/portfolio2024/static/media/1.a12739faa4d7c3611ab5.png",
     "static/media/3.png": "/portfolio2024/static/media/3.31c62354295cfdc71016.png",
+    "static/media/instagram_ad.png": "/portfolio2024/static/media/instagram_ad.9f41ccdecd07ee8d3e18.png",
+    "static/media/91moth.png": "/portfolio2024/static/media/91moth.d9a3a5a63418f759f436.png",
+    "static/media/TCM_STICKER_EDIT.png": "/portfolio2024/static/media/TCM_STICKER_EDIT.0ec0da9e20e53c648035.png",
     "static/media/me2024.jpg": "/portfolio2024/static/media/me2024.b5886f92f099d079a7ae.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.4e025651.js.map": "/portfolio2024/static/js/main.4e025651.js.map",
+    "main.1c113b5e.js.map": "/portfolio2024/static/js/main.1c113b5e.js.map",
     "453.7f487821.chunk.js.map": "/portfolio2024/static/js/453.7f487821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.4e025651.js"
+    "static/js/main.1c113b5e.js"
   ]
 }
