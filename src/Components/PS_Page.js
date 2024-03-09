@@ -6,26 +6,26 @@ import ps from "../images/ps.png";
 
 const PS_Page = () => {
   //TITLE
-  let pr_title = {
+  let ps_title = {
     display: "flex",
     borderBottom: "1px solid black",
     margin: "15px",
   };
 
-  let pr_title_img = {
+  let ps_title_img = {
     width: "55px",
   };
 
-  let pr_title_h3 = {
+  let ps_title_h3 = {
     fontWeight: "bold",
     margin: "10px",
   };
 
   return (
     <div>
-      <div id="ae_title" style={pr_title}>
-        <img src={pr} style={pr_title_img} />
-        <h3 style={pr_title_h3}>Premiere Pro</h3>
+      <div id="ae_title" style={ps_title}>
+        <img src={ps} style={pr_title_img} />
+        <h3 style={ps_title_h3}>Premiere Pro</h3>
       </div>
       <Media query="(max-width:767px)">
         {(matches) => {
