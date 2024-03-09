@@ -4,6 +4,16 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import ps from "../images/ps.png";
 
+import one from "../images/photoshop/1.png";
+import two from "../images/photoshop/2.png";
+import three from "../images/photoshop/3.png";
+import four from "../images/photoshop/4.png";
+import five from "../images/photoshop/5.png";
+import six from "../images/photoshop/6.png";
+import seven from "../images/photoshop/7.png";
+import eight from "../images/photoshop/8.png";
+import nine from "../images/photoshop/9.png";
+
 const PS_Page = () => {
   //TITLE
   let ps_title = {
@@ -21,6 +31,24 @@ const PS_Page = () => {
     margin: "10px",
   };
 
+  //DESKTOP
+  let desktop_div = {
+    display: "flex",
+    flexWrap: "wrap",
+    justifyContent: "center",
+  };
+
+  let d = {
+    width: "25%",
+    margin: "5px",
+  };
+
+  //MOBILE
+  let m = {
+    width: "75%",
+    margin: "5px",
+  };
+
   return (
     <div>
       <div style={ps_title}>
@@ -31,10 +59,30 @@ const PS_Page = () => {
         {(matches) => {
           return matches ? (
             //MOBILE
-            <div></div>
+            <div style={desktop_div}>
+              <img src={one} alt="" style={m} />
+              <img src={two} alt="" style={m} />
+              <img src={three} alt="" style={m} />
+              <img src={four} alt="" style={m} />
+              <img src={five} alt="" style={m} />
+              <img src={six} alt="" style={m} />
+              <img src={seven} alt="" style={m} />
+              <img src={eight} alt="" style={m} />
+              <img src={nine} alt="" style={m} />
+            </div>
           ) : (
             //DESKTOP
-            <div></div>
+            <div style={desktop_div}>
+              <img src={one} alt="" style={d} />
+              <img src={two} alt="" style={d} />
+              <img src={three} alt="" style={d} />
+              <img src={four} alt="" style={d} />
+              <img src={five} alt="" style={d} />
+              <img src={six} alt="" style={d} />
+              <img src={seven} alt="" style={d} />
+              <img src={eight} alt="" style={d} />
+              <img src={nine} alt="" style={d} />
+            </div>
           );
         }}
       </Media>
