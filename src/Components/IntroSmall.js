@@ -165,21 +165,23 @@ const Intro = () => {
             drawing and pointillism. I love the technicalities and process of
             illustrating a scene out of my imagination or copying a still life.
             After moving back to Minnesota from Las Vegas I decided to learn
-            more about Adobe applications such as Photoshop and Illustrator. My
-            most recent graphic design project has been creating t-shirt designs
-            and logos with my business partner. Together, we founded the label
-            Ninety-One. During my time at Minneapolis Community and Technical
+            more about Adobe applications such as Photoshop, Illustrator,
+            Premiere Pro, and After Effects. My most recent design projects have
+            been focused on creating vlogs and motion graphics for my local
+            Jiu-Jitsu gym. During my time at Minneapolis Community and Technical
             College, I discovered my interest in web development. My code of
-            choice for the past 2 years has been Javascript—specifically React
-            JS. My work is, now, dedicated to web development. I love the
-            challenge and process of writing and learning to write efficient
-            code! My long term professional goal is to become a senior full
-            stack web developer/software engineer at a skateboarding company
-            such as Thrasher, Zumiez, or CCS! <br />
+            choice for the past few years has been Javascript—specifically React
+            JS. My work is, now, dedicated to video editing and motion graphic
+            design. I love the challenge and process of filming, editing, and
+            creating the visual assets for my mini docs! My long term
+            professional goal is to become a senior video editor and motion
+            designer at a street culture organization such as Thrasher or Vice
+            news! <br />
             <br />
             Thanks for taking the time to read my bio!
             <br />
-            Contact: lukescheller1991@outlook.com | 651-207-7638
+            Contact: <strong>lukescheller1991@outlook.com</strong> |{" "}
+            <strong>651-207-7638</strong>
           </p>
         </div>
       </Container>

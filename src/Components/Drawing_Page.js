@@ -72,19 +72,28 @@ const ID_Page = () => {
 
   //DESKTOP
   let desktop_div = {
+    display: "grid",
+    gridTemplateColumns: "33% 33% 33%",
+    justifyItems: "center",
+    alignItems: "center",
+  };
+
+  //DESKTOP
+  let d = {
+    width: "75%",
+    margin: "5px",
+  };
+
+  //MOBILE
+  let mobile_div = {
     display: "flex",
     flexWrap: "wrap",
     justifyContent: "center",
   };
 
-  let d = {
-    width: "35%",
-    margin: "5px",
-  };
-
   //MOBILE
   let m = {
-    width: "75%",
+    width: "85%",
     margin: "5px",
   };
 
@@ -98,7 +107,7 @@ const ID_Page = () => {
         {(matches) => {
           return matches ? (
             //MOBILE
-            <div style={desktop_div}>
+            <div style={mobile_div}>
               <img src={d2} alt="" style={m} />
               <img src={d1} alt="" style={m} />
               <img src={d3} alt="" style={m} />
@@ -151,6 +160,7 @@ const ID_Page = () => {
             </div>
           ) : (
             //DESKTOP
+
             <div style={desktop_div}>
               <img src={d2} alt="" style={d} />
               <img src={d1} alt="" style={d} />
