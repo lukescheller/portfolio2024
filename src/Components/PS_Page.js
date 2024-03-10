@@ -4,15 +4,15 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import ps from "../images/ps.png";
 
-import one from "../images/photoshop/1.png";
-import two from "../images/photoshop/2.png";
-import three from "../images/photoshop/3.png";
-import four from "../images/photoshop/4.png";
-import five from "../images/photoshop/5.png";
-import six from "../images/photoshop/6.png";
-import seven from "../images/photoshop/7.png";
-import eight from "../images/photoshop/8.png";
-import nine from "../images/photoshop/9.png";
+import one from "../images/photoshop/1.jpg";
+import two from "../images/photoshop/2.jpg";
+import three from "../images/photoshop/3.jpg";
+import four from "../images/photoshop/4.jpg";
+import five from "../images/photoshop/5.jpg";
+import six from "../images/photoshop/6.jpg";
+import seven from "../images/photoshop/7.jpg";
+import eight from "../images/photoshop/8.jpg";
+import nine from "../images/photoshop/9.jpg";
 
 const PS_Page = () => {
   //TITLE

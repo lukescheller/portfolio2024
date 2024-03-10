@@ -3,11 +3,11 @@ import Media from "react-media";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import tm from "../images/tm.png";
-import moth from "../images/logo/91moth.png";
-import ig from "../images/logo/instagram_ad.png";
-import ls from "../images/logo/logo.png";
-import tcm from "../images/logo/TCM_STICKER_EDIT.png";
-import tk from "../images/logo/tripple kings IG store opening promotion color 2.png";
+import moth from "../images/logo/91moth.jpg";
+import ig from "../images/logo/instagram_ad.jpg";
+import ls from "../images/logo/logo.jpg";
+import tcm from "../images/logo/TCM_STICKER_EDIT.jpg";
+import tk from "../images/logo/tripple kings IG store opening promotion color 2.jpg";
 
 const ID_Page = () => {
   //TITLE
