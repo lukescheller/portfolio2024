@@ -28,6 +28,30 @@ import d22 from "../images/drawing/22.png";
 import d23 from "../images/drawing/23.png";
 import d24 from "../images/drawing/24.png";
 import d25 from "../images/drawing/25.png";
+import d26 from "../images/drawing/26.jpg";
+import d27 from "../images/drawing/27.jpg";
+import d28 from "../images/drawing/28.jpg";
+import d29 from "../images/drawing/29.jpg";
+import d30 from "../images/drawing/30.jpg";
+import d31 from "../images/drawing/31.jpg";
+import d32 from "../images/drawing/32.jpg";
+import d33 from "../images/drawing/33.jpg";
+import d34 from "../images/drawing/34.jpg";
+import d35 from "../images/drawing/35.jpg";
+import d36 from "../images/drawing/36.jpg";
+import d37 from "../images/drawing/37.jpg";
+import d38 from "../images/drawing/38.jpg";
+import d39 from "../images/drawing/39.jpg";
+import d40 from "../images/drawing/40.jpg";
+import d41 from "../images/drawing/41.jpg";
+import d42 from "../images/drawing/42.jpg";
+import d43 from "../images/drawing/43.jpg";
+import d44 from "../images/drawing/44.jpg";
+import d45 from "../images/drawing/45.jpg";
+import d46 from "../images/drawing/46.jpg";
+import d47 from "../images/drawing/47.jpg";
+import d48 from "../images/drawing/48.jpg";
+import d49 from "../images/drawing/49.jpg";
 
 const ID_Page = () => {
   //TITLE
@@ -54,7 +78,7 @@ const ID_Page = () => {
   };
 
   let d = {
-    width: "25%",
+    width: "35%",
     margin: "5px",
   };
 
@@ -100,12 +124,36 @@ const ID_Page = () => {
               <img src={d23} alt="" style={m} />
               <img src={d24} alt="" style={m} />
               <img src={d25} alt="" style={m} />
+              <img src={d26} alt="" style={m} />
+              <img src={d27} alt="" style={m} />
+              <img src={d28} alt="" style={m} />
+              <img src={d29} alt="" style={m} />
+              <img src={d30} alt="" style={m} />
+              <img src={d31} alt="" style={m} />
+              <img src={d32} alt="" style={m} />
+              <img src={d33} alt="" style={m} />
+              <img src={d34} alt="" style={m} />
+              <img src={d35} alt="" style={m} />
+              <img src={d36} alt="" style={m} />
+              <img src={d37} alt="" style={m} />
+              <img src={d38} alt="" style={m} />
+              <img src={d39} alt="" style={m} />
+              <img src={d40} alt="" style={m} />
+              <img src={d41} alt="" style={m} />
+              <img src={d42} alt="" style={m} />
+              <img src={d43} alt="" style={m} />
+              <img src={d44} alt="" style={m} />
+              <img src={d45} alt="" style={m} />
+              <img src={d46} alt="" style={m} />
+              <img src={d47} alt="" style={m} />
+              <img src={d48} alt="" style={m} />
+              <img src={d49} alt="" style={m} />
             </div>
           ) : (
             //DESKTOP
             <div style={desktop_div}>
-              <img src={d1} alt="" style={d} />
               <img src={d2} alt="" style={d} />
+              <img src={d1} alt="" style={d} />
               <img src={d3} alt="" style={d} />
               {/* <img src={d4} alt="" style={d} /> */}
               <img src={d5} alt="" style={d} />
@@ -129,6 +177,30 @@ const ID_Page = () => {
               <img src={d23} alt="" style={d} />
               <img src={d24} alt="" style={d} />
               <img src={d25} alt="" style={d} />
+              <img src={d26} alt="" style={d} />
+              <img src={d27} alt="" style={d} />
+              <img src={d28} alt="" style={d} />
+              <img src={d29} alt="" style={d} />
+              <img src={d30} alt="" style={d} />
+              <img src={d31} alt="" style={d} />
+              <img src={d32} alt="" style={d} />
+              <img src={d33} alt="" style={d} />
+              <img src={d34} alt="" style={d} />
+              <img src={d35} alt="" style={d} />
+              <img src={d36} alt="" style={d} />
+              <img src={d37} alt="" style={d} />
+              <img src={d38} alt="" style={d} />
+              <img src={d39} alt="" style={d} />
+              <img src={d40} alt="" style={d} />
+              <img src={d41} alt="" style={d} />
+              <img src={d42} alt="" style={d} />
+              <img src={d43} alt="" style={d} />
+              <img src={d44} alt="" style={d} />
+              <img src={d45} alt="" style={d} />
+              <img src={d46} alt="" style={d} />
+              <img src={d47} alt="" style={d} />
+              <img src={d48} alt="" style={d} />
+              <img src={d49} alt="" style={d} />
             </div>
           );
         }}
