@@ -10,6 +10,7 @@ import PS_Page from "./Components/PS_Page";
 import ID_Page from "./Components/ID_Page";
 import Logo_Page from "./Components/Logo_Page";
 import Clothing_Page from "./Components/Clothing_Page";
+import Drawing_Page from "./Components/Drawing_Page";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route exact path="/indesign" element={<ID_Page />} />
           <Route exact path="/logos" element={<Logo_Page />} />
           <Route exact path="/clothing" element={<Clothing_Page />} />
+          <Route exact path="/drawing" element={<Drawing_Page />} />
         </Routes>
       </div>
     </Router>

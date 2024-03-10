@@ -107,9 +107,9 @@ const CustomNavBar = () => {
               />{" "}
             </Link>
             <br />
-            {/* digitalillustrations */}
+            {/* drawing */}
             <Link
-              to="/digitalillustrations"
+              to="/drawing"
               style={{
                 color: "black",
                 margin: "15px",
