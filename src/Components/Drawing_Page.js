@@ -112,7 +112,7 @@ const ID_Page = () => {
               <img src={d1} alt="" style={m} />
               <img src={d3} alt="" style={m} />
               {/* <img src={d4} alt="" style={d} /> */}
-              <img src={d5} alt="" style={m} />
+              {/* <img src={d5} alt="" style={m} /> */}
               <img src={d6} alt="" style={m} />
               <img src={d7} alt="" style={m} />
               <img src={d8} alt="" style={m} />
@@ -139,7 +139,7 @@ const ID_Page = () => {
               <img src={d29} alt="" style={m} />
               <img src={d30} alt="" style={m} />
               <img src={d31} alt="" style={m} />
-              <img src={d32} alt="" style={m} />
+              {/* <img src={d32} alt="" style={m} /> */}
               <img src={d33} alt="" style={m} />
               <img src={d34} alt="" style={m} />
               <img src={d35} alt="" style={m} />
@@ -166,7 +166,7 @@ const ID_Page = () => {
               <img src={d1} alt="" style={d} />
               <img src={d3} alt="" style={d} />
               {/* <img src={d4} alt="" style={d} /> */}
-              <img src={d5} alt="" style={d} />
+              {/* <img src={d5} alt="" style={d} /> */}
               <img src={d6} alt="" style={d} />
               <img src={d7} alt="" style={d} />
               <img src={d8} alt="" style={d} />
@@ -193,7 +193,7 @@ const ID_Page = () => {
               <img src={d29} alt="" style={d} />
               <img src={d30} alt="" style={d} />
               <img src={d31} alt="" style={d} />
-              <img src={d32} alt="" style={d} />
+              {/* <img src={d32} alt="" style={d} /> */}
               <img src={d33} alt="" style={d} />
               <img src={d34} alt="" style={d} />
               <img src={d35} alt="" style={d} />

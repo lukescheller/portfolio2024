@@ -59,7 +59,7 @@ const ID_Page = () => {
               <img src={t1} alt="" style={m} />
               <img src={t2} alt="" style={m} />
               <img src={t3} alt="" style={m} />
-              <img src={t4} alt="" style={m} />
+              {/* <img src={t4} alt="" style={m} /> */}
               <img src={t5} alt="" style={m} />
               <img src={t6} alt="" style={m} />
             </div>
@@ -69,7 +69,7 @@ const ID_Page = () => {
               <img src={t1} alt="" style={d} />
               <img src={t2} alt="" style={d} />
               <img src={t3} alt="" style={d} />
-              <img src={t4} alt="" style={d} />
+              {/* <img src={t4} alt="" style={d} /> */}
               <img src={t5} alt="" style={d} />
               <img src={t6} alt="" style={d} />
             </div>

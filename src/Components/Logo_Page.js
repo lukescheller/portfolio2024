@@ -56,7 +56,7 @@ const ID_Page = () => {
             //MOBILE
             <div style={desktop_div}>
               <img src={moth} alt="" style={{ width: "75%", margin: "5px" }} />
-              <img src={ig} alt="" style={m} />
+              {/* <img src={ig} alt="" style={m} /> */}
               <img src={ls} alt="" style={m} />
               <img src={tcm} alt="" style={m} />
               <img src={tk} alt="" style={m} />
@@ -65,7 +65,7 @@ const ID_Page = () => {
             //DESKTOP
             <div style={desktop_div}>
               <img src={moth} alt="" style={{ width: "75%", margin: "5px" }} />
-              <img src={ig} alt="" style={d} />
+              {/* <img src={ig} alt="" style={d} /> */}
               <img src={ls} alt="" style={d} />
               <img src={tcm} alt="" style={d} />
               <img src={tk} alt="" style={d} />

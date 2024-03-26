@@ -66,7 +66,7 @@ const PS_Page = () => {
               <img src={four} alt="" style={m} />
               <img src={five} alt="" style={m} />
               <img src={six} alt="" style={m} />
-              <img src={seven} alt="" style={m} />
+              {/* <img src={seven} alt="" style={m} /> */}
               <img src={eight} alt="" style={m} />
               <img src={nine} alt="" style={m} />
             </div>
@@ -79,7 +79,7 @@ const PS_Page = () => {
               <img src={four} alt="" style={d} />
               <img src={five} alt="" style={d} />
               <img src={six} alt="" style={d} />
-              <img src={seven} alt="" style={d} />
+              {/* <img src={seven} alt="" style={d} /> */}
               <img src={eight} alt="" style={d} />
               <img src={nine} alt="" style={d} />
             </div>
