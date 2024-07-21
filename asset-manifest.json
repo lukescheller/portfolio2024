@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.03974a99.js",
+    "main.js": "/portfolio2024/static/js/main.509e6589.js",
     "static/js/453.5c57b634.chunk.js": "/portfolio2024/static/js/453.5c57b634.chunk.js",
     "static/media/akagi_credits.mp4": "/portfolio2024/static/media/akagi_credits.95a302461735de80bd7c.mp4",
     "static/media/atheneum_intro.mp4": "/portfolio2024/static/media/atheneum_intro.abd3edb4632e4ac63289.mp4",
@@ -57,6 +57,7 @@
     "static/media/36.jpg": "/portfolio2024/static/media/36.ee9120cd17f0356e3fdf.jpg",
     "static/media/37.jpg": "/portfolio2024/static/media/37.2c026377f7eb23ce499b.jpg",
     "static/media/1.jpg": "/portfolio2024/static/media/1.7e058fdd6144a1431ad2.jpg",
+    "static/media/Luke_Scheller_2024.pdf": "/portfolio2024/static/media/Luke_Scheller_2024.f1c201efcfacf771ecd3.pdf",
     "static/media/27.jpg": "/portfolio2024/static/media/27.c8c72204e0308cb0043f.jpg",
     "static/media/41.jpg": "/portfolio2024/static/media/41.f693de2dbfc4770f101e.jpg",
     "static/media/43.jpg": "/portfolio2024/static/media/43.7cc2bbb4dd787b69a396.jpg",
@@ -81,11 +82,11 @@
     "static/media/tshirt5.jpg": "/portfolio2024/static/media/tshirt5.f931a8de24a9a48e20b8.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.03974a99.js.map": "/portfolio2024/static/js/main.03974a99.js.map",
+    "main.509e6589.js.map": "/portfolio2024/static/js/main.509e6589.js.map",
     "453.5c57b634.chunk.js.map": "/portfolio2024/static/js/453.5c57b634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.03974a99.js"
+    "static/js/main.509e6589.js"
   ]
 }
