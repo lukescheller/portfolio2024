@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.4d6b5300.js",
+    "main.js": "/portfolio2024/static/js/main.820507c1.js",
     "static/js/453.5c57b634.chunk.js": "/portfolio2024/static/js/453.5c57b634.chunk.js",
     "static/media/akagi_credits.mp4": "/portfolio2024/static/media/akagi_credits.95a302461735de80bd7c.mp4",
+    "static/media/Poster_1st_Draft.png": "/portfolio2024/static/media/Poster_1st_Draft.1302542cb6f03d277525.png",
     "static/media/atheneum_intro.mp4": "/portfolio2024/static/media/atheneum_intro.abd3edb4632e4ac63289.mp4",
     "static/media/akagi_intro.mp4": "/portfolio2024/static/media/akagi_intro.4d1a8ab41431c2abc157.mp4",
     "static/media/2.jpg": "/portfolio2024/static/media/2.925fc63dba628b24dd37.jpg",
@@ -82,11 +83,11 @@
     "static/media/tshirt5.jpg": "/portfolio2024/static/media/tshirt5.f931a8de24a9a48e20b8.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.4d6b5300.js.map": "/portfolio2024/static/js/main.4d6b5300.js.map",
+    "main.820507c1.js.map": "/portfolio2024/static/js/main.820507c1.js.map",
     "453.5c57b634.chunk.js.map": "/portfolio2024/static/js/453.5c57b634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.4d6b5300.js"
+    "static/js/main.820507c1.js"
   ]
 }
