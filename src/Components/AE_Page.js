@@ -6,6 +6,7 @@ import ae from "../images/ae.png";
 import a_intro from "../images/videos/akagi_intro.mp4";
 import a_credits from "../images/videos/akagi_credits.mp4";
 import atheneum_intro from "../images/videos/atheneum_intro.mp4";
+import atheneum_intro2 from "../images/vides/atheneum_intro2";
 import logo from "../images/videos/course_logo.mp4";
 import glow from "../images/videos/textglow.mp4";
 
@@ -82,6 +83,10 @@ const AE_Page = () => {
                 </video>
 
                 <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={atheneum_intro2} type="video/mp4" />
+                </video>
+
+                <video style={ae_video_mobile} autoPlay loop muted>
                   <source src={logo} type="video/mp4" />
                 </video>
               </div>
@@ -104,6 +109,10 @@ const AE_Page = () => {
 
                 <video style={ae_video} autoPlay loop muted>
                   <source src={atheneum_intro} type="video/mp4" />
+                </video>
+
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={atheneum_intro2} type="video/mp4" />
                 </video>
 
                 <video style={ae_video} autoPlay loop muted>
