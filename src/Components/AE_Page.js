@@ -6,7 +6,7 @@ import ae from "../images/ae.png";
 import a_intro from "../images/videos/akagi_intro.mp4";
 import a_credits from "../images/videos/akagi_credits.mp4";
 import atheneum_intro from "../images/videos/atheneum_intro.mp4";
-import atheneum_intro2 from "../images/vides/atheneum_intro2";
+import atheneum_intro2 from "../images/vides/atheneum_intro2.mp4";
 import logo from "../images/videos/course_logo.mp4";
 import glow from "../images/videos/textglow.mp4";
 
