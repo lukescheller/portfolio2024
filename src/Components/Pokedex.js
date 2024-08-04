@@ -43,7 +43,7 @@ const Pokedex = (props) => {
 
   useEffect(() => {
     setPokedex([]);
-    axios.get("https://pokeapi.co/api/v2/pokemon?limit=386").then((res) => {
+    axios.get("https://pokeapi.co/api/v2/pokemon?limit=1302").then((res) => {
       for (let x = 0; x < res.data.results.length; x++) {
         axios.get(res.data.results[x].url).then((res) => {
           // console.log(res);
@@ -90,7 +90,7 @@ const Pokedex = (props) => {
       </div>
       <div>
         <h1>
-          Type: {pokeType} ({pokedexFilter.length} - 386)
+          Type: {pokeType} ({pokedexFilter.length} - 1302)
         </h1>
       </div>
       <div
