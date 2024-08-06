@@ -10,6 +10,7 @@ import atheneum_intro2 from "../images/videos/atheneum_intro2.mp4";
 import logo from "../images/videos/course_logo.mp4";
 import glow from "../images/videos/textglow.mp4";
 import lightning from "../images/videos/lightning.mp4";
+import three_d from "../images/videos/3d_shape.mp4";
 
 const AE_Page = () => {
   //TITLE
@@ -68,6 +69,9 @@ const AE_Page = () => {
             <div id="ae1">
               <div id="ae1_container">
                 <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={three_d} type="video/mp4" />
+                </video>
+                <video style={ae_video_mobile} autoPlay loop muted>
                   <source src={lightning} type="video/mp4" />
                 </video>
 
@@ -100,6 +104,9 @@ const AE_Page = () => {
             //DESKTOP
             <div id="ae1" style={ae1}>
               <div id="ae1_container" style={ae1_container}>
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={three_d} type="video/mp4" />
+                </video>
                 <video style={ae_video} autoPlay loop muted>
                   <source src={lightning} type="video/mp4" />
                 </video>
