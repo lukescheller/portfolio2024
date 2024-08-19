@@ -123,7 +123,7 @@ const CustomNavBar = () => {
             </Link>
             <br />
             {/* pokemon */}
-            <Link
+            {/* <Link
               to="/pokemon"
               style={{
                 color: "black",
@@ -136,7 +136,7 @@ const CustomNavBar = () => {
                 src="https://img.icons8.com/?size=50&id=cf5VAHkQsmvA&format=png&color=000000"
               />
             </Link>
-            <br />
+            <br /> */}
           </div>
         </Navbar.Collapse>
       </Navbar>
