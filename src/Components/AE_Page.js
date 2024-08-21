@@ -12,6 +12,7 @@ import glow from "../images/videos/textglow.mp4";
 import lightning from "../images/videos/lightning.mp4";
 import three_d from "../images/videos/3d_shape.mp4";
 import broll from "../images/videos/broll.mp4";
+import p_intro from "../images/videos/Personal_Intro_2024.mp4";
 
 const AE_Page = () => {
   //TITLE
@@ -70,6 +71,9 @@ const AE_Page = () => {
             <div id="ae1">
               <div id="ae1_container">
                 <video style={ae_video_mobile} autoPlay loop muted>
+                  <source src={p_intro} type="video/mp4" />
+                </video>
+                <video style={ae_video_mobile} autoPlay loop muted>
                   <source src={broll} type="video/mp4" />
                 </video>
                 <video style={ae_video_mobile} autoPlay loop muted>
@@ -108,6 +112,9 @@ const AE_Page = () => {
             //DESKTOP
             <div id="ae1" style={ae1}>
               <div id="ae1_container" style={ae1_container}>
+                <video style={ae_video} autoPlay loop muted>
+                  <source src={p_intro} type="video/mp4" />
+                </video>
                 <video style={ae_video} autoPlay loop muted>
                   <source src={broll} type="video/mp4" />
                 </video>
