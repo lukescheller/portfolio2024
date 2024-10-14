@@ -49,6 +49,17 @@ const PR_Page = () => {
 
             <div>
               <h3 style={{ fontWeight: "bold" }}>
+                Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney
+              </h3>
+              <iframe
+                style={m}
+                src="https://www.youtube.com/embed/KmcAxpxf8co"
+                title="Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              <h3 style={{ fontWeight: "bold" }}>
                 Akagi Jiu-Jitsu Vlogs #22 - Jake Marshall
               </h3>
               <iframe
@@ -157,6 +168,17 @@ const PR_Page = () => {
           ) : (
             //DESKTOP
             <div>
+              <h3 style={{ fontWeight: "bold" }}>
+                Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney
+              </h3>
+              <iframe
+                style={d}
+                src="https://www.youtube.com/embed/KmcAxpxf8co"
+                title="   Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
               <h3 style={{ fontWeight: "bold" }}>
                 Akagi Jiu-Jitsu Vlogs #22 - Jake Marshall
               </h3>
