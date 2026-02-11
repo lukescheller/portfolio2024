@@ -193,7 +193,7 @@ const IntroBig = () => {
               from many different countries.
             </p>
             <p>
-              In addition to his work, Luke enjoys a variety of activities
+              In addition to his art, Luke enjoys a variety of activities
               outside the office. Skateboarding, digital painting, Brazilian
               Jiu-Jitsu, reading, and weight lifting are some of his main
               hobbies.
