@@ -173,23 +173,29 @@ const Intro = () => {
             }}
           >
             <p>
-              Luke Scheller is an experienced videographer, editor, and motion
-              designer from Columbia Heights, Minnesota. As a content creator
-              with over two years of experience, Luke creates vlog series,
-              directs mini documentaries, and designs lower thirds, logos,
-              intros, and credits.
+              My name is Luke Scheller, and I’m a video editor and motion
+              designer based in Minneapolis, Minnesota. My passion for
+              filmmaking and video editing began in my teenage years when I was
+              first introduced to professional skateboarding video production.
+              While I loved the skateboarding itself, I was especially drawn to
+              the behind-the-scenes moments—the parts where you could see the
+              personalities, struggles, and stories of the skateboarders I
+              looked up to.
             </p>
             <p>
-              Luke's rather unique upbringing has nurtured his artistic passion
-              and point of view. Between the ages of 8 and 18, Luke lived in
-              Switzerland and was exposed to cultures, traditions, and people
-              from many different countries.
+              That curiosity about people’s stories stayed with me into
+              adulthood. In 2023, I created a vlog series for my jiu-jitsu gym
+              where I interviewed members about their personal journeys and how
+              they found their way into the sport. Hearing those experiences and
+              sharing them through video reinforced what I love most about
+              filmmaking: discovering the human story behind the surface.
             </p>
             <p>
-              In addition to his work, Luke enjoys a variety of activities
-              outside the office. Skateboarding, digital painting, Brazilian
-              Jiu-Jitsu, reading, and weight lifting are some of his main
-              hobbies.
+              My ultimate goal is to become a documentary filmmaker. I’m
+              fascinated by the details and intricacies of people’s lives, and
+              I’m passionate about telling those stories in an authentic and
+              compelling way. I’d love the opportunity to work with you and help
+              bring your story to life.
             </p>
             <div>
               <Button
