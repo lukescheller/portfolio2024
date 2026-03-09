@@ -208,7 +208,11 @@ const Intro = () => {
               </Button>
             </div>
             <br />
-            <p>For business inquires you can contact Luke via phone or email</p>
+            <p>
+              If you’re interested in working together or have a project in
+              mind, I’d love to hear from you—feel free to reach out to discuss
+              business inquiries and collaboration opportunities. 🤝🎬
+            </p>
             <strong>lukescheller1991@outlook.com</strong> |{" "}
             <strong>651-207-7638</strong>
           </p>
