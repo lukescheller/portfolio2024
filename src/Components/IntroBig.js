@@ -3,7 +3,7 @@ import { Container, Button } from "react-bootstrap";
 import me from "../images/me2024.jpg";
 import ae2 from "../images/ae2.png";
 import pr2 from "../images/pr2.png";
-import resume from "../pdf/Luke_Scheller_2024.pdf";
+import resume from "../pdf/Luke_Scheller_2026.pdf";
 
 const RESUME_FILE_PDF = resume;
 const downloadPDF = (url) => {
