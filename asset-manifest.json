@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.7dd17366.js",
+    "main.js": "/portfolio2024/static/js/main.f9b1bf12.js",
     "static/js/453.5c57b634.chunk.js": "/portfolio2024/static/js/453.5c57b634.chunk.js",
     "static/media/Akagi_Vlogs_Credits_1.mp4": "/portfolio2024/static/media/Akagi_Vlogs_Credits_1.132f7865a7c5b989bd8e.mp4",
     "static/media/broll.mp4": "/portfolio2024/static/media/broll.e817e6721649b7f2b744.mp4",
@@ -55,6 +55,7 @@
     "static/media/30.jpg": "/portfolio2024/static/media/30.0f3e3d18867871b231af.jpg",
     "static/media/39.jpg": "/portfolio2024/static/media/39.44a39670b3cc5832a0b0.jpg",
     "static/media/5.jpg": "/portfolio2024/static/media/5.73bfe2a4f66e98f9dc0d.jpg",
+    "static/media/Luke_Scheller_2026.pdf": "/portfolio2024/static/media/Luke_Scheller_2026.439fed3b2a0c1bf4b6b8.pdf",
     "static/media/29.jpg": "/portfolio2024/static/media/29.d7b21600cf78024a2e9f.jpg",
     "static/media/38.jpg": "/portfolio2024/static/media/38.5ae94be469e0ac5d7f7a.jpg",
     "static/media/34.jpg": "/portfolio2024/static/media/34.8f194b8b07f8b09a2402.jpg",
@@ -65,7 +66,6 @@
     "static/media/36.jpg": "/portfolio2024/static/media/36.ee9120cd17f0356e3fdf.jpg",
     "static/media/37.jpg": "/portfolio2024/static/media/37.2c026377f7eb23ce499b.jpg",
     "static/media/1.jpg": "/portfolio2024/static/media/1.7e058fdd6144a1431ad2.jpg",
-    "static/media/Luke_Scheller_2024.pdf": "/portfolio2024/static/media/Luke_Scheller_2024.f1c201efcfacf771ecd3.pdf",
     "static/media/27.jpg": "/portfolio2024/static/media/27.c8c72204e0308cb0043f.jpg",
     "static/media/41.jpg": "/portfolio2024/static/media/41.f693de2dbfc4770f101e.jpg",
     "static/media/43.jpg": "/portfolio2024/static/media/43.7cc2bbb4dd787b69a396.jpg",
@@ -90,11 +90,11 @@
     "static/media/tshirt5.jpg": "/portfolio2024/static/media/tshirt5.f931a8de24a9a48e20b8.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.7dd17366.js.map": "/portfolio2024/static/js/main.7dd17366.js.map",
+    "main.f9b1bf12.js.map": "/portfolio2024/static/js/main.f9b1bf12.js.map",
     "453.5c57b634.chunk.js.map": "/portfolio2024/static/js/453.5c57b634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.7dd17366.js"
+    "static/js/main.f9b1bf12.js"
   ]
 }
