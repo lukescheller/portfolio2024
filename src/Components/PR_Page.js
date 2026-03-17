@@ -48,6 +48,13 @@ const PR_Page = () => {
             //MOBILE
 
             <div>
+              <h3 style={{ fontWeight: "bold" }}>Viral Card Games</h3>
+              <iframe
+                style={m}
+                src="https://www.youtube.com/embed/AIjG8evMh6Y"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
               <h3 style={{ fontWeight: "bold" }}>
                 Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney
               </h3>
@@ -168,6 +175,15 @@ const PR_Page = () => {
           ) : (
             //DESKTOP
             <div>
+              <h3 style={{ fontWeight: "bold" }}>Viral Card Games</h3>
+              <iframe
+                style={d}
+                src="https://www.youtube.com/embed/AIjG8evMh6Y"
+                title="Viral Card Games"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
               <h3 style={{ fontWeight: "bold" }}>
                 Akagi Jiu-Jitsu Vlogs Season 2 Episode 1 - Rachel Kenney
               </h3>

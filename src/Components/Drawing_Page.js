@@ -52,6 +52,9 @@ import d46 from "../images/drawing/46.jpg";
 import d47 from "../images/drawing/47.jpg";
 import d48 from "../images/drawing/48.jpg";
 import d49 from "../images/drawing/49.jpg";
+import d50 from "../images/drawing/50.png";
+import d51 from "../images/drawing/51.png";
+import d52 from "../images/drawing/52.png";
 
 const ID_Page = () => {
   //TITLE
@@ -157,6 +160,9 @@ const ID_Page = () => {
               <img src={d47} alt="" style={m} />
               <img src={d48} alt="" style={m} />
               <img src={d49} alt="" style={m} />
+              <img src={d50} alt="" style={m} />
+              <img src={d51} alt="" style={m} />
+              <img src={d52} alt="" style={m} />
             </div>
           ) : (
             //DESKTOP
@@ -211,6 +217,9 @@ const ID_Page = () => {
               <img src={d47} alt="" style={d} />
               <img src={d48} alt="" style={d} />
               <img src={d49} alt="" style={d} />
+              <img src={d50} alt="" style={d} />
+              <img src={d51} alt="" style={d} />
+              <img src={d52} alt="" style={d} />
             </div>
           );
         }}
