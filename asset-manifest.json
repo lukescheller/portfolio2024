@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.4c1568dc.css",
-    "main.js": "/portfolio2024/static/js/main.f9b1bf12.js",
+    "main.js": "/portfolio2024/static/js/main.3d017cd4.js",
     "static/js/453.5c57b634.chunk.js": "/portfolio2024/static/js/453.5c57b634.chunk.js",
     "static/media/Akagi_Vlogs_Credits_1.mp4": "/portfolio2024/static/media/Akagi_Vlogs_Credits_1.132f7865a7c5b989bd8e.mp4",
     "static/media/broll.mp4": "/portfolio2024/static/media/broll.e817e6721649b7f2b744.mp4",
@@ -41,13 +41,16 @@
     "static/media/23.png": "/portfolio2024/static/media/23.f6bb3495549b98d805e5.png",
     "static/media/12.png": "/portfolio2024/static/media/12.efe5391aa7aa001f0876.png",
     "static/media/22.png": "/portfolio2024/static/media/22.c11b4e59748b389498ae.png",
+    "static/media/50.png": "/portfolio2024/static/media/50.bf5af88cdc34abe63656.png",
     "static/media/2.png": "/portfolio2024/static/media/2.3afe9d7299782f911c9e.png",
     "static/media/9.png": "/portfolio2024/static/media/9.cc4e59b67285b935b714.png",
     "static/media/4.png": "/portfolio2024/static/media/4.1571f8fb90d9680c4a56.png",
+    "static/media/51.png": "/portfolio2024/static/media/51.8049b6e5f1c8ffa5a61d.png",
     "static/media/21.png": "/portfolio2024/static/media/21.2eb49706b0baf62ff352.png",
     "static/media/logo.jpg": "/portfolio2024/static/media/logo.7ef39fd1ec121f65a799.jpg",
     "static/media/6.png": "/portfolio2024/static/media/6.286153429b3747773c4c.png",
     "static/media/18.png": "/portfolio2024/static/media/18.018d267a9bea2d1304d2.png",
+    "static/media/52.png": "/portfolio2024/static/media/52.11c421e33fbea80f70ae.png",
     "static/media/26.jpg": "/portfolio2024/static/media/26.4c10c83c2c61ddfa5e40.jpg",
     "static/media/35.jpg": "/portfolio2024/static/media/35.3a82be85cfc995bc01fb.jpg",
     "static/media/tripple kings IG store opening promotion color 2.jpg": "/portfolio2024/static/media/tripple kings IG store opening promotion color 2.aaf6d54efd9f2fe9d3ef.jpg",
@@ -90,11 +93,11 @@
     "static/media/tshirt5.jpg": "/portfolio2024/static/media/tshirt5.f931a8de24a9a48e20b8.jpg",
     "index.html": "/portfolio2024/index.html",
     "main.4c1568dc.css.map": "/portfolio2024/static/css/main.4c1568dc.css.map",
-    "main.f9b1bf12.js.map": "/portfolio2024/static/js/main.f9b1bf12.js.map",
+    "main.3d017cd4.js.map": "/portfolio2024/static/js/main.3d017cd4.js.map",
     "453.5c57b634.chunk.js.map": "/portfolio2024/static/js/453.5c57b634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c1568dc.css",
-    "static/js/main.f9b1bf12.js"
+    "static/js/main.3d017cd4.js"
   ]
 }
